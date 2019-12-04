@@ -1,0 +1,5 @@
+2019-11-27-05:51:57 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16h25m472ms).
+2019-11-27-05:56:47 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-27-05:56:47 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-27-05:56:47 - HikariPool-1 - Shutdown initiated...
+2019-11-27-05:56:47 - HikariPool-1 - Shutdown completed.
